@@ -6,6 +6,8 @@ public class Strings
         String trial = "Hello World this is github";
         
         System.out.println("string:\t" + trial);
+        System.out.println(trial+" -> trial 1");
+        System.out.println(trial+" -> trial 2");
         System.out.println();
 
         System.out.println("METHODS IN STRING CLASS");
