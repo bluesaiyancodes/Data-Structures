@@ -1,13 +1,10 @@
-/*  
- * AUTHOR
- * GAURAV WALIA(GauravWalia19)
- * © copyright sep 2018
- */
+
 import java.util.*;
 public class twoDarray
 {
     public static void main(String[] args)
     {
+        System.out.println("2d Array");
         Scanner in = new Scanner(System.in);
         int rows; //rows of 2d array
         int cols; //cols of 2d array
