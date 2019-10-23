@@ -51,7 +51,7 @@ public class Main
         }
         else
         {
-            System.out.println("ELMENT NOT FOUND");
+            System.out.println("ELEMENT NOT FOUND");
         }
         if(mylist.optimal_search(99))
         {
@@ -59,7 +59,7 @@ public class Main
         }
         else
         {
-            System.out.println("ELMENT NOT FOUND");
+            System.out.print("ELEMENT NOT FOUND\n");
         }
     }
 }
