@@ -13,6 +13,9 @@ public class oneDarray
 
         System.out.printf("Enter a num");
         int a = scan.nextInt();
+        int arr[] new int[a];
+        for(int i = 0; i<n; i++)
+            arr[i] = i+1;
         System.out.println(a);
         scan.close();
     }
